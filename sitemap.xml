@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://guipi01.github.io/posts/bcd86d8.html</loc>
+    
+    <lastmod>2025-04-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://guipi01.github.io/posts/4a17b156.html</loc>
     
     <lastmod>2025-03-26</lastmod>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://guipi01.github.io/music/index.html</loc>
-    
-    <lastmod>2025-03-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guipi01.github.io/link/index.html</loc>
     
     <lastmod>2025-03-26</lastmod>
     
@@ -98,10 +98,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://guipi01.github.io/tags/CTF/</loc>
+    <lastmod>2025-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://guipi01.github.io/categories/hexo/</loc>
+    <lastmod>2025-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://guipi01.github.io/categories/CTF/</loc>
     <lastmod>2025-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

@@ -1,3 +1,4 @@
+https://guipi01.github.io/posts/ccc6fa83.html
 https://guipi01.github.io/posts/bcd86d8.html
 https://guipi01.github.io/posts/4a17b156.html
 https://guipi01.github.io/tags/index.html
@@ -10,5 +11,5 @@ https://guipi01.github.io/manifest.json
 https://guipi01.github.io/
 https://guipi01.github.io/tags/CTF/
 https://guipi01.github.io/tags/hexo/
-https://guipi01.github.io/categories/CTF/
 https://guipi01.github.io/categories/hexo/
+https://guipi01.github.io/categories/CTF/
